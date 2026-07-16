@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "balkantrio.aternos.me",
-    "port": 51175,
+    "ip": "VanillaMin.aternos.me",
+    "port": 20151,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
